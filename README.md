@@ -3,13 +3,13 @@
 This project focuses on recognizing handwritten English alphabets (A-Z) by training a neural network model on a dataset of alphabet images. The goal is to build a machine learning model that can accurately identify each handwritten character.
 Project Prerequisites
 
-##Make sure you have the following installed before running the project:
+## Make sure you have the following installed before running the project:
 
 Python 3.7.4
 
 IDE: Jupyter Notebook (recommended)
 
-##Required Libraries and Frameworks
+## Required Libraries and Frameworks
 
 Numpy (v1.16.5)
 
